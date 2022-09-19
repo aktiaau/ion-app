@@ -70,7 +70,7 @@ setTodos(newTodos);
           <IonButton routerLink='/tab2'>
             Move To Tab2
           </IonButton>
-          <IonRouterLink routerLink='/tab3'>Move To Tab 3</IonRouterLink>
+          <IonRouterLink routerLink='/tab3'>Pindah Ke Tab 3</IonRouterLink>
       </IonContent>
     </IonPage>
   );
