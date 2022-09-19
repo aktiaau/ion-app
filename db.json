@@ -1,0 +1,12 @@
+{
+    "todos": [
+      { "id": 1, "todo": "beli jajan", "kategori":"1" }
+      { "id": 2, "todo": "beli sabun", "kategori":"1" }
+      { "id": 3, "todo": "cuci baju", "kategori":"2" }
+    ],
+    "kategori": [
+      { "id": 1, "name": "belanja" }
+      { "id": 2, "name": "bersih-bersih" }
+    ],
+    "profile": { "name": "typicode" }
+  }
